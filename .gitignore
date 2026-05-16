@@ -58,3 +58,5 @@ compile_commands.json
 client/.qmake.stash
 server/.qmake.stash
 /server/debug
+/client/release
+/server/release
