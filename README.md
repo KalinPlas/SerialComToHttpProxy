@@ -8,6 +8,8 @@ It consists of two independent console applications:
 
 Both ends use a simple binary framing protocol.
 
+Suitable for those who don't want or can't connect their computer directly to the network. I tested simple web surfing on lightweight sites and the ability to access popular neural network sites (Deepseek, Qwen, etc.).
+
 ---
 
 ## Features
@@ -121,6 +123,8 @@ COMProxy позволяет передавать TCP-трафик (HTTP/HTTPS) �
 - **comproxy‑server** – подключается к последовательному порту, принимает кадры, устанавливает исходящие TCP-соединения к запрошенным узлам и ретранслирует данные в обе стороны.
 
 Обе стороны используют простой двоичный протокол.
+
+Подходит для тех, кто не хочет или не имеет возможности подключить компьютер напрямую к сети. Протестирован простой веб-серфинг по легковесным сайтам, возможность заходить на популярные сайты нейросетей (Deepseek, Qwen и т.д).
 
 ---
 
