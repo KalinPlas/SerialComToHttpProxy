@@ -54,3 +54,7 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+/client/debug
+client/.qmake.stash
+server/.qmake.stash
+/server/debug
